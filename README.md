@@ -1,4 +1,4 @@
-## Project: Longitudinal Analysis of Hemoglobin Trajectories under Enhanced Seasonal Malaria Chemoprevention (eSMC)
+## Longitudinal Analysis of Hemoglobin Trajectories under Enhanced Seasonal Malaria Chemoprevention (eSMC)
 
 This project applies linear mixed-effects modelling to longitudinal data from a randomized controlled trial of 300 children (aged 12–59 months) to evaluate the impact of Enhanced Seasonal Malaria Chemoprevention (eSMC) on hemoglobin levels over a 6-month malaria transmission period .
 
