@@ -10,4 +10,4 @@ Results showed that hemoglobin declined in the control group (~0.162 g/dL per mo
 
 Model diagnostics (residual plots and Q-Q plots) confirmed that assumptions of normality and homoscedasticity were reasonably satisfied. The analysis also identified positive effects of age and ITN use on hemoglobin levels, and substantial between-child variability (ICC ≈ 0.70).
 
-#### Packages used in R: `lme4`, `ggplot2`, `dplyr`, `survival`, `survminer
+#### Packages used in R: `lme4`, `ggplot2`, `dplyr`, `survival`, `survminer`.
